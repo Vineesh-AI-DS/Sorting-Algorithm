@@ -36,10 +36,6 @@ list_of_nums=eval(input())
 value=selection_sort(list_of_nums)
 print(value)
 
-
-
-
-
 ```
 ii)	#Insertion Sort
 ```
