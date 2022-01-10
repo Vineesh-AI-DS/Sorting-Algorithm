@@ -66,5 +66,7 @@ print(value)
 
 
 
+
+
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
