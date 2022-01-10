@@ -64,5 +64,7 @@ print(value)
 ![ex9](https://user-images.githubusercontent.com/93427254/148788852-e53a848f-dfda-4ecc-a8ee-b4b262e365fa.png)
 ![ex9a](https://user-images.githubusercontent.com/93427254/148788866-19a31219-02bf-4132-b9e0-88e1455b939b.png)
 
+
+
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
